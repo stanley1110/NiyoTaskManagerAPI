@@ -8,6 +8,7 @@ d. Schema validation and endpoint documentation with Swagger documentation.
 
 API Url - http://localhost:3000/api-docs/
 Socket data streaming page - http://localhost:3000/
+start command - nodemon
 
 
 
